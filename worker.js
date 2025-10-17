@@ -1,6 +1,6 @@
 const Config = {
     repository: 'codeidc/epg',
-    branch: 'epg'
+    branch: 'zz'
 }
 
 const init = {
