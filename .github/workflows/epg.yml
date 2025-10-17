@@ -18,7 +18,7 @@ jobs:
           - url: https://epg.112114.xyz/pp.xml.gz
             branch: zz
             sleep: 0s
-          - url: https://raw.githubusercontent.com/kuke31/xmlgz/main/cc.xml.gz
+          - url: https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz
             branch: erw
             sleep: 30s
           - url: http://epg.51zmt.top:8000/e.xml
