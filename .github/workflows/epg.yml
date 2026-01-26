@@ -15,7 +15,7 @@ jobs:
       fail-fast: false
       matrix:
         include:
-          - url: https://epg.112114.xyz/pp.xml.gz
+          - url: https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz
             branch: zz
             sleep: 0s
           #- url: https://raw.githubusercontent.com/kuke31/xmlgz/main/all.xml.gz
